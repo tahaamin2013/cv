@@ -1,0 +1,32 @@
+body {
+    background-color: #EAF6F6;
+  }
+  
+  hr {
+    border-style:none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+  }
+
+  legend{
+    font-size: 22px;
+    color: #66BFBF;
+    font-weight:bold;
+  }
+
+  .btn{
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 10px;
+    border: white;
+    background-color: #66BFBF;
+    color: white;
+    width: 100px;
+    height: 30px;
+    margin: 10px;
+  }
+  .Name{
+    color: #66BFBF;
+  }
